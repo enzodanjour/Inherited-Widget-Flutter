@@ -26,6 +26,6 @@ the method updateShouldNotify verify if object is the same, if has change some d
 
 in [main_data](lib/main.dart) is made declaration of objects, passing userModel attributes, to can see this object in widget tree.
 
-All widgets in tree above their can see and watch data about User model, it's only recover using ``` var user = UserModel.of(context);`` how is done in [DrawerPage](lib/home/drawer_page.dart).
+All widgets in tree above their can see and watch data about User model, it's only recover using ``var user = UserModel.of(context);`` how is done in [DrawerPage](lib/home/drawer_page.dart).
 
 it's possible because is created a method ```UserModel of(BuildContext context)``` in [User model](lib/model/user_model.dart) with can recover data.
