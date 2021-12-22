@@ -1,6 +1,9 @@
 # inherited flutter example
 
 The purpose of this project is implements inheritedWidget on flutter and understand how dependency injection with this works.
+![Screenshot from 2021-12-22 11-45-55](https://user-images.githubusercontent.com/35856303/147111274-7262983f-ce8e-47d6-83d9-2257ebd763d7.png)
+![Screenshot from 2021-12-22 11-20-21](https://user-images.githubusercontent.com/35856303/147111278-48a940f3-87ed-4177-b70d-10743cf7ee3e.png)
+
 
 ## InheritedWidget
 
